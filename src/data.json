@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tedir Ghazali",
+      "contact": 8975488656,
+      "email": "ted123@gamil.com"
+    },
+    {
+      "name": "sai charan",
+      "email": "sai7878@gmail.com",
+      "contact": 512595959,
+      "id": 2
+    },
+    {
+      "name": "Roshan babu",
+      "email": "rose123@gmail.com",
+      "contact": 2589632147,
+      "id": 3
+    },
+    {
+      "name": "Raja vemula ",
+      "email": "raaa2345@gmail.com",
+      "contact": 369852147,
+      "id": 4
+    },
+    {
+      "name": "qdqkadn",
+      "email": "cswccwd",
+      "contact": 585735535,
+      "id": 5
+    }
+  ]
+}

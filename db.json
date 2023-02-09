@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tedir Ghazali",
+      "contact": 89754886561111,
+      "email": "ted123@gamil.com"
+    },
+    {
+      "name": "sai charan",
+      "email": "sai7878@gmail.com",
+      "contact": 512595959,
+      "id": 2
+    },
+    {
+      "name": "kate wincent",
+      "email": "rose123@gmail.com",
+      "contact": 7894561232,
+      "id": 3
+    },
+    {
+      "name": "Raja shekar reddy",
+      "email": "cm2345@gmail.com",
+      "contact": 784545478745,
+      "id": 4
+    },
+    {
+      "name": "chandrababu naidu",
+      "email": "cm12345@gmail.com",
+      "contact": 7896665633,
+      "id": 5
+    },
+    {
+      "name": "ajju jakkaz",
+      "email": "ajju12344@gmail.com",
+      "contact": 6548985695659,
+      "id": 6
+    }
+  ]
+}
